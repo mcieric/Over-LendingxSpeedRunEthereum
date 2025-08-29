@@ -176,8 +176,8 @@ yarn vercel
 ## 🔗 Links
 
 - [SpeedRunEthereum Challenge](https://speedrunethereum.com/challenge/over-collateralized-lending)
-- Live Demo: *[https://overlending-oact2d27i-einarmigs-projects.vercel.app]*
-- Contract Verification: *[https://sepolia.etherscan.io/address/0x159AA20E6cC45eEfe0D5905C5c059bd8DD849466]*
+- [Live Demo](https://overlending-oact2d27i-einarmigs-projects.vercel.app)
+- [Contract Verification](https://sepolia.etherscan.io/address/0x159AA20E6cC45eEfe0D5905C5c059bd8DD849466)
 
 ---
 
